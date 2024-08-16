@@ -2,7 +2,7 @@
 <i>(Developer / Programmer)</i>
 
 <br>
-<p>My name is Tiago Massao Nemoto but you can call me Massanemo or Nemo, I'm full stack developer and AI enthusiast.</p>
+<p>My name is Tiago Massao Nemoto, but you can call me Massanemo or Nemo, I'm full stack developer and AI enthusiast.</p>
 <p>💡 I have a project that uses mediapipe, tensorflow and opencv, to learn the hand signals used by speechless people.
 <br>
 🔍 Looking for opportunities in the area</p>
