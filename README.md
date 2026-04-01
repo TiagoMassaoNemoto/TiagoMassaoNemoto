@@ -3,9 +3,10 @@
 
 <br>
 <p>My name is Tiago Massao Nemoto, but you can call me Massanemo or Nemo, I'm full stack developer and AI enthusiast.</p>
-<p>💡 I have a project that uses mediapipe, tensorflow and opencv, to learn the hand signals used by speechless people.
+<p>🚀 Full Stack Developer & AI Enthusiast</p>
+<p>I'm passionate about building bridge-building technology. I developed a project using MediaPipe, TensorFlow, and OpenCV to recognize and interpret hand signals, facilitating communication for non-verbal individuals.</p>
 <br>
-🔍 Looking for opportunities in the area</p>
+🔍 Looking for opportunities in Software Development and AI.</p>
 <br>
 <h1 align="center">Skills</h1>
 
