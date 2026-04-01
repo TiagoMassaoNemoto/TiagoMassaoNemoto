@@ -34,7 +34,7 @@
 <h1 align="center">GitHub</h1>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=tiagomassaonemoto&theme=tokyonight&show_icons=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiagomassaonemoto&theme=tokyonight" >
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagomassaonemoto&theme=tokyonight&layout=compact">
     <br>
